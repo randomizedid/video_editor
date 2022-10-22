@@ -1,7 +1,7 @@
 # video_editor
 
 This repo contains an extremely simple video trimmer that I developed to quickly handle videos during my project at NTU. 
-Since I had deal with tens of videos and cut them into smaller ones (that makes hundreds of them), I found every free video editor not really helpful when it came to user speed.
+Since I had to deal with tens of videos and cut them into smaller ones (that makes hundreds of them), I found every free video editor not really helpful when it came to user speed.
 
 The tool is very simple, it's written in Python and uses Tkinter as the GUI library.  
 
